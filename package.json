@@ -1,0 +1,8 @@
+{
+  "name": "shopify-project",
+  "author": "Jacob Lee <jacob@polybit.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}

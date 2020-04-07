@@ -1,0 +1,11 @@
+{
+  "name": "jacoblee/shopify-orders-alerter",
+  "version": "0.0.0",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/shopify/orders/create.js": {
+      "name": "shopify.orders.create"
+    }
+  }
+}
