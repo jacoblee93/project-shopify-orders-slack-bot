@@ -6,7 +6,7 @@
 
 This project is code for a Slack bot that will respond to newly created orders in a Shopify store by sending a notification.
 
-![](./readme/images/metrics-message.png)
+![](./readme/images/shopify-orders-message.png)
 
 Setup is simple –– you can deploy it without writing any code or configuring any files due to Standard Library's [Identity Token](https://docs.stdlib.com/identity-management-sso-for-apis/what-is-an-identity-token/) support! The only things you need to do are to link your Shopify store and Slack workspace to Standard Library, then deploy!
 
